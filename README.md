@@ -1,52 +1,102 @@
-# Hi 👋, I'm Pratiksha Raskar  
----
+# Hi 👋, I'm Pratiksha Raskar
 
-### 🌟 About Me  
-- 🔭 *Currently Working On:*  
-  Collaborating on exciting *AI and web development projects* like Kisan-Mitra-AI.  
-- 👯 *Collaboration:*  
-  Eager to contribute to *open source, **hackathons*, and community-driven projects.  
-- 🤝 *Help Wanted:*  
-  Always open to learning more about *deep learning, **backend development, and **system design*.  
-- 💬 *Ask Me About:*  
-  *Machine Learning, **Flask, **Python*, and backend integrations.  
-- 🌱 *Learning Journey:*  
-  Exploring *React.js, **API development, and **DevOps tools*.  
-- 📫 *Reach Me At:*  
-  [pratiksharaskar00@gmail.com](mailto:pratiksharaskar0@gmail.com)  
+🎓 **AI & Data Science Undergraduate** | 💻 **Aspiring AI / Software Engineer**  
+📍 Pune, Maharashtra, India
 
 ---
 
-### 🌐 Connect with Me  
+## 🌟 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pratiksharaskar)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/PratikshaRaskar)  
+I am a motivated **Artificial Intelligence & Data Science student** with hands-on experience in **Machine Learning, Computer Vision, IoT, and Web Development**.  
+I enjoy building **real-world, problem-solving projects** and continuously learning new technologies.
 
----
-
-### 🚀 Skills & Expertise  
-
-*Languages:*  
-- 🖥 Python | C++ | JavaScript  
-
-*Web & AI Frameworks:*  
-- 🧠 Flask | OpenCV | TensorFlow | Pandas  
-
-*Databases & Backend:*  
-- 🗄 MySQL | SQLite | MongoDB (Basics)  
-
-*Tools:*  
-- 🔧 Git | GitHub | VS Code | Google Colab  
+- 🔭 Currently working on **AI & Web Development projects**
+- 🌱 Learning **Deep Learning, Backend Development & System Design**
+- 👯 Open to **internships, collaborations, and hackathons**
+- 💡 Interested in **AI, Data Science, Computer Vision, and IoT**
+- 🚀 Actively seeking **IT / AI Internship opportunities**
 
 ---
 
-### 📊 GitHub Stats  
+## 🛠️ Technical Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikshaRaskar&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikshaRaskar&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PratikshaRaskar&theme=tokyonight&hide_border=true)
+**Programming Languages:**  
+Python, JavaScript (Basic)
+
+**AI & Machine Learning:**  
+Supervised Learning, Unsupervised Learning, Data Preprocessing, Model Training, Model Evaluation
+
+**Libraries & Frameworks:**  
+NumPy, Pandas, Matplotlib, TensorFlow (Basic), MediaPipe, Flask
+
+**Domains:**  
+Artificial Intelligence, Machine Learning, Data Science, Computer Vision, IoT
+
+**Web Technologies:**  
+HTML, CSS, JavaScript, Flask
 
 ---
 
-Thanks for visiting! Let’s connect and make a difference through code! 🚀
+## 📌 Projects
 
+### 🤟 HandyTalk – AI Sign Language Translator
+- Developed an AI-based hand gesture recognition system using **MediaPipe and TensorFlow**  
+- Converts sign language gestures into **text and speech**  
+- Focused on accessibility and human-centered design  
+
+### 🌱 AgriTech – AI for Smarter Farming
+- AI-based crop recommendation and plant disease detection system  
+- Integrated **weather and soil data** for precision agriculture  
+
+### 🚓 Crime Rate Prediction System
+- Implemented ML models to predict **area-wise crime trends**  
+- Performed data analysis, preprocessing, and visualization  
+
+### ♿ Beyond Limits – Assistive Technology
+- IoT-based assistive solutions for physically challenged individuals  
+- Focused on accessibility, usability, and real-world applications  
+
+---
+
+## 💼 Internship Experience
+
+**AI–ML Virtual Intern — EduSkills Foundation (AICTE)**  
+📅 Oct 2025 – Dec 2025  
+- Worked on Python-based ML workflows  
+- Achieved **Outstanding Grade (O)**  
+
+**Intern – AI, Data Science & IoT — Bharat Forge Ltd.**  
+📅 Sept 2023 – Nov 2023  
+- Worked on predictive maintenance & Industry 4.0 analytics  
+- Gained exposure to industrial IoT and real-time datasets  
+
+---
+
+## 🎓 Education
+
+- **B.E. Artificial Intelligence & Data Science**  
+  MMIT Lohgaon | 2024 – 2027  
+
+- **Diploma in Engineering**  
+  AISSMS Polytechnic | 2021 – 2024  
+
+---
+
+## 🏆 Certifications & Achievements
+
+- AI–ML Virtual Internship – AICTE & EduSkills  
+- Generative AI Studio – Google Cloud  
+- AR/VR Acceleration Program  
+- E-FEST 2025 Hackathon – JSPM  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **pratiksharaskar0@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-raskar-ai
+- 💻 GitHub: https://github.com/PratikshaRaskar
+
+---
+
+⭐ *Feel free to explore my repositories and connect for collaboration or internship opportunities!*
