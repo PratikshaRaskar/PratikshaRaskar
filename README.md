@@ -93,7 +93,7 @@ HTML, CSS, JavaScript, Flask
 
 ## 📫 Connect With Me
 
-- 📧 Email: **pratiksharaskar0@gmail.com**
+- 📧 Email: **pratiksharaskar4@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/pratiksha-raskar-ai
 - 💻 GitHub: https://github.com/PratikshaRaskar
 
