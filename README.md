@@ -1,143 +1,111 @@
+<img src="./assets/banner.svg" alt="Pratiksha Raskar - AI and Data Science Engineering Student" width="100%">
+
 <div align="center">
 
-<img src=""C:\Users\hp\Downloads\banner.svg"" alt="Pratiksha Raskar - AI and Data Science Engineering Student" width="100%">
-
-**AI & Data Science Engineering Student · Python Developer · Building Intelligent, Data-Driven Applications**
-
-[LinkedIn](https://www.linkedin.com/in/pratiksha-raskar-ai) · [EyeNav demo](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo) · [MedicineReminderAI demo](https://medicinereminderai-production.up.railway.app/) · [Email](mailto:pratiksharaskar4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratiksha--raskar--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-raskar-ai)
+[![Email](https://img.shields.io/badge/Email-pratiksharaskar4%40gmail.com-1f2430?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiksharaskar4@gmail.com)
+[![EyeNav](https://img.shields.io/badge/Live-EyeNav-7c6cf0?style=for-the-badge)](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)
+[![MedicineReminderAI](https://img.shields.io/badge/Live-MedicineReminderAI-58a6ff?style=for-the-badge)](https://medicinereminderai-production.up.railway.app/)
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## About
 
-I'm a B.E. student in Artificial Intelligence & Data Science at MMIT, Pune, with a Diploma in Engineering behind me. I like turning ideas into working software, especially where machine learning, computer vision and data can make everyday tools more accessible and useful.
+I'm a B.E. student in **Artificial Intelligence & Data Science** at MMIT, Pune, with a Diploma in Engineering behind me. I turn ideas into working software, especially where **machine learning, computer vision and data** can make everyday tools more accessible and useful.
 
-My projects so far span a browser-based eye-tracking interface, an OCR-driven medicine reminder with an ML adherence model, and an age-group classifier, alongside SQL/ETL work from a data analytics internship. I'm currently strengthening my deep learning, backend and data-engineering skills, and I'm looking for AI/ML and software internships.
+My work so far: a browser-based **eye-tracking interface**, an **OCR-driven medicine reminder** with an ML adherence model, an **age-group classifier**, and **SQL/ETL** work from a data analytics internship. I'm strengthening deep learning, backend and data engineering, and I'm looking for **AI/ML and software internships**.
 
----
+<img src="./assets/divider.svg" alt="" width="100%">
 
 ## Featured Projects
 
+### EyeNav: hands-free web navigation with a webcam
+
+Explores affordable, camera-only assistive interaction for people who find a mouse or keyboard hard to use. Face and eye landmarks come from MediaPipe, a nine-point calibration maps gaze to the screen, and the user can click by dwelling, blinking or winking, and scroll with facial gestures. It runs in the browser and works inside the web app (not system-wide); voice commands are a prototype.
+
+<img src="./assets/eyenav-pipeline.svg" alt="EyeNav pipeline: webcam, MediaPipe, calibration, cursor and gestures" width="100%">
+
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### [EyeNav](https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access)
-**Webcam-based, hands-free web navigation**
-
-Explores affordable, camera-only assistive interaction for people who find a mouse or keyboard difficult to use.
-
-- Face and eye landmarks with MediaPipe Face Landmarker
-- Nine-point gaze calibration, gaze cursor, dwell-to-click
-- Blink, wink and facial-gesture actions (voice commands are a prototype)
-- Runs in the browser; works inside the web app, not system-wide
-
-`React` `Vite` `MediaPipe` `Tailwind CSS`
-
-[Repository](https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access) · [Live demo](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)
-
-</td>
-<td width="50%" valign="top">
-
-### [MedicineReminderAI](https://github.com/PratikshaRaskar/MedicineReminderAI)
-**Prescription OCR, reminders and adherence prediction**
-
-Helps people keep track of their medicines by reading prescriptions and predicting adherence.
-
-- Prescription text extraction with EasyOCR and OpenCV
-- ML-based adherence prediction (scikit-learn)
-- Medicine management, reminders and dashboard
-- Flask app with SQLite storage
-
-`Python` `Flask` `scikit-learn` `EasyOCR` `SQLite`
-
-[Repository](https://github.com/PratikshaRaskar/MedicineReminderAI) · [Live demo](https://medicinereminderai-production.up.railway.app/)
-
-</td>
+<td width="33%"><img src="https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access/raw/main/Dashboard.png" alt="EyeNav dashboard showing tracking status and gesture signals"></td>
+<td width="33%"><img src="https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access/raw/main/calibration.png" alt="EyeNav nine-point gaze calibration screen"></td>
+<td width="33%"><img src="https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access/raw/main/Live%20demo.png" alt="EyeNav live demo page"></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Age_Detection](https://github.com/PratikshaRaskar/Age_Detection)
-**Face-image age-group classification**
-
-Classifies human faces into age ranges using a model trained on labelled facial images.
-
-`Python` `Jupyter Notebook`
-
-[Repository](https://github.com/PratikshaRaskar/Age_Detection)
-
-</td>
-<td width="50%" valign="top">
-
-### [Cosmos Data Analytics Internship](https://github.com/PratikshaRaskar/Cosmos-Data-Analytics-Internship)
-**SQL, SSIS, ETL and banking reports (2026)**
-
-Work from a data analytics internship covering SQL, ETL processes and banking reports.
-
-`SQL` `SSIS` `ETL`
-
-[Repository](https://github.com/PratikshaRaskar/Cosmos-Data-Analytics-Internship)
-
-</td>
+<td align="center"><sub>Dashboard</sub></td><td align="center"><sub>Calibration</sub></td><td align="center"><sub>Live demo</sub></td>
 </tr>
 </table>
 
-<!--
-TODO: Your old README listed HandyTalk, AgriTech, Crime Rate Prediction and Beyond Limits.
-No public repositories with those names were found. Once you publish them, add a card
-for each here, using only features that are implemented.
--->
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Landmarker-0097A7?style=flat-square&logo=google&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**[Repository](https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access)** · **[Live demo](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)**
 
-## Technical Skills
+<br>
 
-| Area | Tools |
-|---|---|
-| **Languages** | Python · SQL · JavaScript (basic) · HTML · CSS |
-| **ML & Data Science** | NumPy · Pandas · Matplotlib · scikit-learn · TensorFlow (basic) · OpenCV · MediaPipe · EasyOCR |
-| **Web & Backend** | Flask · React · Vite · Tailwind CSS · SQLite |
-| **Data Engineering** | SQL · SSIS · ETL |
-| **Tools** | Git · GitHub · VS Code · Jupyter Notebook |
+### MedicineReminderAI: prescription OCR, reminders and adherence prediction
 
-**Currently learning:** deep learning, backend development, system design.
+Reads a prescription image with OCR, helps manage medicines and reminders, and predicts adherence with a machine learning model. Flask app with a dashboard and SQLite storage.
 
----
+<table>
+<tr>
+<td width="25%"><img src="https://github.com/PratikshaRaskar/MedicineReminderAI/raw/main/screenshots/home.png" alt="MedicineReminderAI home page"></td>
+<td width="25%"><img src="https://github.com/PratikshaRaskar/MedicineReminderAI/raw/main/screenshots/upload.png" alt="Prescription upload page"></td>
+<td width="25%"><img src="https://github.com/PratikshaRaskar/MedicineReminderAI/raw/main/screenshots/result.png" alt="OCR result page"></td>
+<td width="25%"><img src="https://github.com/PratikshaRaskar/MedicineReminderAI/raw/main/screenshots/Dashboard.png" alt="Medicine dashboard"></td>
+</tr>
+<tr>
+<td align="center"><sub>Home</sub></td><td align="center"><sub>Upload</sub></td><td align="center"><sub>Result</sub></td><td align="center"><sub>Dashboard</sub></td>
+</tr>
+</table>
 
-## What I'm Working On
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) EasyOCR
 
-- Improving the accuracy and robustness of EyeNav's gaze calibration and exploring a native companion app for system-wide control
-- Deepening my deep learning and computer vision skills
-- Writing clearer documentation and making my projects easier to reproduce and deploy
-- Daily ML practice in [ML-Algorithm](https://github.com/PratikshaRaskar/ML-Algorithm)
+**[Repository](https://github.com/PratikshaRaskar/MedicineReminderAI)** · **[Live demo](https://medicinereminderai-production.up.railway.app/)**
 
----
+<br>
 
-## Experience & Achievements
+### More work
 
-**AI-ML Virtual Intern, EduSkills Foundation (AICTE)** · Oct 2025 – Dec 2025
-Python-based ML workflows. Grade: Outstanding (O).
+| Project | What it is | Stack |
+|---|---|---|
+| **[Age_Detection](https://github.com/PratikshaRaskar/Age_Detection)** | Classifies face images into age groups using a model trained on labelled facial images | Python · Jupyter |
+| **[Cosmos Data Analytics Internship](https://github.com/PratikshaRaskar/Cosmos-Data-Analytics-Internship)** | SQL, SSIS, ETL processes and banking reports (2026) | SQL · SSIS · ETL |
+| **[ML-Algorithm](https://github.com/PratikshaRaskar/ML-Algorithm)** | Daily machine learning concepts, algorithms, notes and implementations | Python · Jupyter |
 
-**Intern, AI, Data Science & IoT, Bharat Forge Ltd.** · Sept 2023 – Nov 2023
-Predictive maintenance and Industry 4.0 analytics.
+<!-- TODO: add HandyTalk, AgriTech, Crime Rate Prediction and Beyond Limits here once their repos are public. -->
 
-**Also:** Generative AI Studio (Google Cloud) · AR/VR Acceleration Program · E-FEST 2025 Hackathon (JSPM)
-<!-- TODO: add certificate or credential links for each item above if you have them. -->
+<img src="./assets/divider.svg" alt="" width="100%">
 
-**Education:** B.E. Artificial Intelligence & Data Science, MMIT Lohgaon (2024 – 2027) · Diploma in Engineering, AISSMS Polytechnic (2021 – 2024)
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/pratiksha-raskar-ai) · [Email](mailto:pratiksharaskar4@gmail.com) · Pune, India
-<!-- TODO: add a portfolio link here if you build one. -->
+## Tech Stack
 
 <div align="center">
 
-<sub>Learning in public, building for real problems.</sub>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,react,vite,tailwind,flask,sqlite,numpy,pandas,tensorflow,opencv,git,github,vscode&perline=8" alt="Python, JavaScript, HTML, CSS, React, Vite, Tailwind, Flask, SQLite, NumPy, Pandas, TensorFlow, OpenCV, Git, GitHub, VS Code">
 
 </div>
+
+Also: SQL, SSIS/ETL, scikit-learn, MediaPipe, EasyOCR, Matplotlib, Jupyter. JavaScript and TensorFlow are at a basic level. **Learning now:** deep learning, backend development, system design.
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## Experience & Achievements
+
+| When | What |
+|---|---|
+| **Oct – Dec 2025** | **AI-ML Virtual Intern**, EduSkills Foundation (AICTE). Python-based ML workflows. Outstanding grade (O). |
+| **Sept – Nov 2023** | **Intern, AI, Data Science & IoT**, Bharat Forge Ltd. Predictive maintenance and Industry 4.0 analytics. |
+| **Also** | E-FEST 2025 Hackathon (JSPM) · Generative AI Studio (Google Cloud) · AR/VR Acceleration Program |
+
+**Education:** B.E. AI & Data Science, MMIT Lohgaon (2024 – 2027) · Diploma in Engineering, AISSMS Polytechnic (2021 – 2024)
+
+<!-- TODO: add credential links for the certifications. -->
+
+## Now
+
+- Making EyeNav's gaze calibration more accurate, and exploring a native companion app for system-wide control
+- Deepening deep learning and computer vision skills
+- Writing clearer documentation so my projects are easy to reproduce
+
+<img src="./assets/footer.svg" alt="" width="100%">
