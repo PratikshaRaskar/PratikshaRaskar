@@ -38,6 +38,27 @@ Explores affordable, camera-only assistive interaction for people who find a mou
 </tr>
 </table>
 
+
+<details>
+<summary><b>EyeNav: features, privacy and limitations</b></summary>
+
+| Feature | Status |
+|---|---|
+| Face and eye landmarks (MediaPipe) | Working |
+| Nine-point gaze calibration | Working |
+| Gaze-based cursor, dwell-to-click | Working |
+| Blink-to-click, wink gestures | Working |
+| Mouth open = scroll down, eyebrows raised = scroll up | Working |
+| Live dashboard, accessibility settings (high contrast, large text, reduced motion) | Working |
+| Voice commands (limited set) | Prototype |
+| Personalization of sensitivity and thresholds | Partial |
+
+**Privacy:** video frames are processed in the browser and not uploaded by the app. Browser speech recognition may send audio to a cloud service, depending on the browser.
+
+**Limitations:** accuracy varies with lighting, camera and calibration. It is an experimental project, not a certified assistive device, and a browser app can't control the operating-system cursor.
+
+</details>
+
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-Face%20Landmarker-0097A7?style=flat-square&logo=google&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **[Repository](https://github.com/PratikshaRaskar/EyeNav---Eye-Controlled-Computer-Access)** · **[Live demo](https://eye-nav-eye-controlled-computer-acc.vercel.app/#/demo)**
@@ -47,6 +68,8 @@ Explores affordable, camera-only assistive interaction for people who find a mou
 ### MedicineReminderAI: prescription OCR, reminders and adherence prediction
 
 Reads a prescription image with OCR, helps manage medicines and reminders, and predicts adherence with a machine learning model. Flask app with a dashboard and SQLite storage.
+
+<img src="./assets/medicine-architecture.svg" alt="MedicineReminderAI modules: OCR, NLP, ML model, reminders and dashboard on Flask with SQLite" width="100%">
 
 <table>
 <tr>
@@ -86,7 +109,15 @@ Reads a prescription image with OCR, helps manage medicines and reminders, and p
 
 </div>
 
-Also: SQL, SSIS/ETL, scikit-learn, MediaPipe, EasyOCR, Matplotlib, Jupyter. JavaScript and TensorFlow are at a basic level. **Learning now:** deep learning, backend development, system design.
+<img src="./assets/learning-ticker.svg" alt="Currently learning: deep learning, backend development, system design, computer vision" width="100%">
+
+Also: SQL, SSIS/ETL, scikit-learn, MediaPipe, EasyOCR, Matplotlib, Jupyter. JavaScript and TensorFlow are at a basic level.
+
+<img src="./assets/divider.svg" alt="" width="100%">
+
+## My Journey
+
+<img src="./assets/timeline.svg" alt="Timeline from 2021 to 2027" width="100%">
 
 <img src="./assets/divider.svg" alt="" width="100%">
 
