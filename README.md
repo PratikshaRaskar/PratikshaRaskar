@@ -1,39 +1,164 @@
-name: Update README cards
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
-  workflow_dispatch:       # lets you run it manually from the Actions tab
+<a href="https://github.com/PratikshaRaskar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Pratiksha+Raskar;AI+%26+Data+Science+Developer;Building+practical+intelligent+applications" alt="Typing SVG: Pratiksha Raskar, AI and Data Science Developer" />
+</a>
 
-permissions:
-  contents: write          # needed so the workflow can commit the generated SVGs
+**B.E. Artificial Intelligence & Data Science · Pune, India**
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pratiksha--raskar--ai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-raskar-ai)
+[![Email](https://img.shields.io/badge/Email-pratiksharaskar4%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pratiksharaskar4@gmail.com)
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+</div>
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&border_radius=10
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+---
 
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+## 👩‍💻 About Me
+
+I'm a third-year **Artificial Intelligence & Data Science** engineering student who likes turning ideas into working software. My work spans **machine learning, computer vision, OCR, Python web apps (Flask) and SQL/ETL-based analytics**.
+
+- 🔭 **Focus:** practical, real-world projects: healthcare reminders, face-based age classification, banking reports
+- 🌱 **Learning:** deep learning, backend development, system design, BI dashboards
+- 🎯 **Goal:** an AI / software engineering internship, then a full-time engineering role
+- 🤝 **Open to:** internships, collaborations and hackathons
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Web**
+
+![Python](https://skillicons.dev/icons?i=py,js,html,css,flask&theme=dark)
+
+**AI, ML & Data**
+
+![ML](https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,numpy,pandas,jupyter&theme=dark)
+
+Also used: MediaPipe · EasyOCR · Matplotlib
+
+**Databases & Data Engineering**
+
+![DB](https://skillicons.dev/icons?i=sqlite&theme=dark)
+
+SQL · SSIS · ETL pipelines · banking MIS reporting
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+
+<!--
+  Add these only once you're comfortable listing them:
+  Power BI, Tableau, Excel  ->  ![BI](https://skillicons.dev/icons?i=powerbi,tableau&theme=dark)
+-->
+
+---
+
+## 🚀 Featured Projects
+
+### 💊 [MedicineReminderAI](https://github.com/PratikshaRaskar/MedicineReminderAI)
+AI-based **medicine adherence prediction and voice reminder** system. It reads prescriptions with OCR, predicts adherence with a machine-learning model, and manages medicines and reminders through a Flask dashboard.
+
+`Python` `Flask` `Scikit-learn` `OpenCV` `EasyOCR` `SQLite` `HTML/CSS/JS`
+
+🔗 [Repository](https://github.com/PratikshaRaskar/MedicineReminderAI) · 🌐 [Live demo](https://medicinereminderai-production.up.railway.app/)
+
+<a href="https://github.com/PratikshaRaskar/MedicineReminderAI">
+  <img src="https://github.com/PratikshaRaskar/MedicineReminderAI/raw/main/screenshots/Dashboard.png" alt="MedicineReminderAI dashboard" width="600" />
+</a>
+
+<br />
+
+### 🏦 [Cosmos Data Analytics Internship](https://github.com/PratikshaRaskar/Cosmos-Data-Analytics-Internship)
+Work log and deliverables from a 2026 data analytics internship: **SQL practice queries, SSIS ETL packages and banking reports**, plus a weekly daily diary.
+
+`SQL` `SSIS` `ETL` `Banking MIS`
+
+🔗 [Repository](https://github.com/PratikshaRaskar/Cosmos-Data-Analytics-Internship)
+
+### 🧑‍🦳 [Age Detection](https://github.com/PratikshaRaskar/Age_Detection)
+Classifies human faces into **age groups** using a model trained on a labeled facial-image dataset.
+
+`Python` `Jupyter Notebook` `Computer Vision`
+
+🔗 [Repository](https://github.com/PratikshaRaskar/Age_Detection)
+
+### 📘 [ML-Algorithm](https://github.com/PratikshaRaskar/ML-Algorithm)
+A running log of **daily machine learning concepts, algorithms, notes and implementations**.
+
+`Python` `Jupyter Notebook`
+
+🔗 [Repository](https://github.com/PratikshaRaskar/ML-Algorithm)
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| Data Analytics Intern | Cosmos Internship (SQL, SSIS, ETL, banking reports) | 2026 |
+| AI–ML Virtual Intern, **Outstanding Grade (O)** | EduSkills Foundation (AICTE) | Oct 2025 – Dec 2025 |
+| Intern: AI, Data Science & IoT | Bharat Forge Ltd. | Sep 2023 – Nov 2023 |
+
+## 🎓 Education
+
+- **B.E. Artificial Intelligence & Data Science**, MMIT Lohgaon (2024 – 2027)
+- **Diploma in Engineering**, AISSMS Polytechnic (2021 – 2024)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="./profile/stats.svg" alt="Pratiksha's GitHub stats" />
+<img height="180" src="./profile/top-langs.svg" alt="Pratiksha's top languages" />
+
+<sub>Cards are generated by a scheduled GitHub Action (see <code>.github/workflows/grs.yml</code>) and show public data only.</sub>
+
+</div>
+
+<!--
+  Optional contribution animation (add only if you want it; needs its own workflow):
+  https://github.com/Platane/snk
+-->
+
+---
+
+## 🌍 Open-Source Mindset
+
+I'm early in my open-source journey and focused on the fundamentals:
+
+- Building useful projects and publishing them with clear READMEs, screenshots and setup steps
+- Improving code quality and documentation as I go
+- Learning from other people's repositories and how they structure real projects
+- Collaborating with developers and contributing to relevant projects as opportunities come up
+
+## 📚 Currently Learning
+
+- Deep learning and computer vision
+- Backend development and system design
+- Advanced SQL, ETL and data analytics / BI dashboards
+- Better software engineering practices (testing, documentation, clean structure)
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **AI–ML Virtual Internship**, AICTE & EduSkills Foundation (Outstanding Grade)
+- ☁️ **Generative AI Studio**, Google Cloud
+- 🥽 **AR/VR Acceleration Program**
+- 💡 **E-FEST 2025 Hackathon**, JSPM
+
+<!-- Tip: link each item to its certificate or credential URL as proof. -->
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-PratikshaRaskar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikshaRaskar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-raskar-ai)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiksharaskar4@gmail.com)
+
+⭐ Feel free to explore my repositories. I'm happy to talk about internships, collaborations and hackathons.
+
+</div>
