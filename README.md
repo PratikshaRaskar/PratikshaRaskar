@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/PratikshaRaskar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Pratiksha+Raskar;AI+%26+Data+Science+Developer;Building+practical+intelligent+applications" alt="Typing SVG: Pratiksha Raskar, AI and Data Science Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Pratiksha+Raskar;AI+%26+Data+Science+Developer;" alt="Typing SVG: Pratiksha Raskar, AI and Data Science Developer" />
 </a>
 
 **B.E. Artificial Intelligence & Data Science · Pune, India**
