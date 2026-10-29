@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Pratiksha Raskar - AI and Data Science Engineering Student" width="100%">
+<img src=""C:\Users\hp\Downloads\banner.svg"" alt="Pratiksha Raskar - AI and Data Science Engineering Student" width="100%">
 
 **AI & Data Science Engineering Student · Python Developer · Building Intelligent, Data-Driven Applications**
 
